@@ -38,8 +38,9 @@ html, body {
     color: black;
 }
 .logo {
-  width: 200px;      /* atur sesuai kebutuhan */
-  height: auto;
+  width: 200px !important;
+  max-width: 200px !important;
+  height: auto !important;
   display: block;
-  margin: 0 auto;    /* biar center */
+  margin: 0 auto;
 }
