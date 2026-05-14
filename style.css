@@ -39,3 +39,9 @@ html, body {
     background: white;
     color: black;
 }
+.logo {
+  width: 200px;      /* atur sesuai kebutuhan */
+  height: auto;
+  display: block;
+  margin: 0 auto;    /* biar center */
+}
