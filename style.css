@@ -22,9 +22,8 @@ html, body {
 
 /* Subtitle */
 .subtitle {
-    color: #aaa;
-    margin-top: 10px;
-    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
 }
 
 /* Tombol */
