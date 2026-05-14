@@ -1,5 +1,5 @@
-body {
-  background-color: #4bbeff;
+html, body {
+  background: #4bbeff !important;
   margin: 0;
   padding: 0;
 }
